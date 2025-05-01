@@ -1,4 +1,4 @@
-# Alt-Text-Viewe
+# Alt-Text-Viewer
 
 ## Description
 
