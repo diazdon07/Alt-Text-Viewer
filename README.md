@@ -69,4 +69,4 @@
 
 For bug reports, suggestions, or help, contact:  
 📧 donmclind.diaz@gmail.com
-🔗 GitHub: [github.com/diazdon07/Alt-Text-Viewer](#) <!-- Replace with actual repo link -->
+🔗 GitHub: [github.com/diazdon07](https://github.com/diazdon07/) <!-- Replace with actual repo link -->
