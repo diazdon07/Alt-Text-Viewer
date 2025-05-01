@@ -1,12 +1,12 @@
 # Alt-Text-Viewe
 
-###### Description
+## Description
 
   Alt Text Viewer is a lightweight Chrome extension that allows you to quickly view the alt text of images and icons on any webpage using customizable keyboard shortcuts. With a simple hotkey toggle, it helps developers, designers, and accessibility testers easily inspect how visual elements—like images and icons—are described, or identify when descriptions are missing. The extension highlights elements with and without accessible text, streamlining the process of accessibility checks without needing to inspect the code manually. Designed for speed and ease of use, it works seamlessly across most websites with minimal performance impact.
   
 ---
 
-### Documentation
+## Documentation
 
 **Alt Text Viewer** is a Chrome extension that helps you quickly view alt text for images and icons on any webpage using customizable keyboard shortcuts. It’s built for developers, designers, and accessibility testers who want a fast, efficient way to check for image descriptions without digging into source code.
 
