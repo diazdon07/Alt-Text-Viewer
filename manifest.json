@@ -1,0 +1,36 @@
+{
+    "name" : "Alt Text Viewer",
+    "description" : "Extension used to view Alt Text on image and svg tags.",
+    "version" : "0.0.0.1",
+    "manifest_version" : 3,
+    "action": {
+        "default_title": "Alt Text Viewer" 
+    },
+    "permissions": [
+        "commands",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "service_worker.js"
+    },
+    "commands": {
+        "show-alt-text": {
+            "suggested_key": {
+                "default": "Alt+S",
+                "mac": "MacCtrl+S"
+            },
+            "description": "Show Alt Text"
+        }
+    },
+    "content_scripts" : [
+        {
+            "matches" : [
+                "<all_urls>"
+            ],
+            "js" : [
+                "/scripts/content_scripts.js"
+            ],
+            "run_at" : "document_idle"
+        }
+    ]
+}
