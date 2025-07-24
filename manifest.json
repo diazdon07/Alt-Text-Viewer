@@ -1,7 +1,7 @@
 {
     "name" : "Alt Text Viewer",
     "description" : "Extension used to view Alt Text on image and svg tags.",
-    "version" : "0.0.0.1",
+    "version" : "0.0.0.3",
     "manifest_version" : 3,
     "action": {
         "default_title": "Alt Text Viewer" 
